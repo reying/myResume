@@ -59,3 +59,8 @@
 
 ## ПРОЕКТЫ:
 1. Учебный проект "Calculator" - расположен в ветке [Calculator](https://github.com/reying/myResume/tree/Calculator)
+2. Учебный проект "3D-Glo" - расположен в ветке [Website](https://github.com/reying/myResume/tree/Website)
+3. Учебный проект "Дипломная работа" - расположен в ветке [Degree-project](https://github.com/reying/myResume/tree/Degree-project)
+
+### СЕРТИФИКАТЫ:
+1. [Сертифакт о прохождении курса JS](https://drive.google.com/file/d/1Zmuixsqzzf0Ml-x0sv0mbxnsy8B7HJFq/view?usp=sharing)
