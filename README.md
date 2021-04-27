@@ -60,9 +60,14 @@
 
 
 ## ПРОЕКТЫ:
+**JS:**
 1. Учебный проект "Calculator" - расположен в ветке [Calculator](https://github.com/reying/myResume/tree/Calculator)
 2. Учебный проект "3D-Glo" - расположен в ветке [Website](https://github.com/reying/myResume/tree/Website)
 3. Учебный проект "Дипломная работа" - расположен в ветке [Degree-project](https://github.com/reying/myResume/tree/Degree-project)
+**React:**
+4. Учебный проект "MrDonalds" - расположен в ветке [MrDonalds](https://github.com/reying/myResume/tree/MrDonalds)
+  Реализация проета представлена на [сайте](https://mrdonalds-4e15a.web.app/)
 
 ### СЕРТИФИКАТЫ:
 1. [Сертифакт о прохождении курса JS](https://drive.google.com/file/d/1Zmuixsqzzf0Ml-x0sv0mbxnsy8B7HJFq/view?usp=sharing)
+2. [Сертификат о прохождении курса "Базовый React"](https://drive.google.com/file/d/1dbQzgjMC5q0__ulRC4ROjkjTivw2I0D-/view?usp=sharing)
