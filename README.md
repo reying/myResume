@@ -65,7 +65,7 @@
 2. Учебный проект "3D-Glo" - расположен в ветке [Website](https://github.com/reying/myResume/tree/Website)
 3. Учебный проект "Дипломная работа" - расположен в ветке [Degree-project](https://github.com/reying/myResume/tree/Degree-project)
 **React:**
-4. Учебный проект "MrDonalds" - расположен в ветке [MrDonalds](https://github.com/reying/myResume/tree/MrDonalds)
+4. Учебный проект "MrDonalds" - расположен в ветке [MrDonalds.](https://github.com/reying/myResume/tree/MrDonalds)
   Реализация проета представлена на [сайте](https://mrdonalds-4e15a.web.app/)
 
 ### СЕРТИФИКАТЫ:
