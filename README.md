@@ -1,14 +1,6 @@
 ![photo — копия](https://user-images.githubusercontent.com/51052680/113975235-a2c07d00-9858-11eb-96b8-9c105cc09054.jpg)
 # Иванов Дмитрий Игоревич
 
-**Перейти к [проектам](#проекты)**
-
-Телефон: +79995614805 <br>
-Электронная почта: rey.veritas@yandex.ru
-
-#### НАВЫКИ:
-> Знание JavaScript, HTML, CSS.<br>
-
 ## ПРОЕКТЫ:
 1. Учебный проект "Calculator" - расположен в ветке [Calculator](https://github.com/reying/myResume/tree/Calculator)
 2. Учебный проект "3D-Glo" - расположен в ветке [Website](https://github.com/reying/myResume/tree/Website)
